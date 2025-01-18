@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cavedevsoftware.github.io/sitemap.xml
